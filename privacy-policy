@@ -1,47 +1,85 @@
-Privacy Policy  
+Privacy Policy (ISTU)
 
+Last updated: September 10, 2025
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at ISTU, how ISTU uses it, and what choices you have.
-ISTU built the ISTU app as a free app. This SERVICE is provided by ISTU at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+This Privacy Policy explains what personal data ISTU (“we”, “us”) collects through the ISTU mobile application (“App”), how we use it, and the choices you have. By using the App, you agree to this Policy.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+1. Who we are & contact
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Data Controller: ISTU
+Email: abdullah.sadat@istu.edu.pl
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+2. What we collect
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Depending on how you use the App, we may process:
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+Account & Profile: name, email address, profile photo (if you add one).
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+Authentication: Google Sign-In identifiers (token/ID), if you choose that login method.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Usage & Diagnostics: app interactions, crash logs, device model/OS, IP (approx. region), push token (for notifications).
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+Location (optional): if you grant permission for location-based features.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+Content you provide: files/photos/PDFs or other content you upload within the App.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+3. Why we use your data (purposes & legal bases)
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: 
-abdullah.sadat@istu.edu.pl
+We process data to:
+
+Provide and operate the App (create/login to your account, core features) – performance of a contract.
+
+Improve and secure the App (analytics, debugging, fraud prevention) – legitimate interests.
+
+Send optional notifications (announcements, updates) – consent (you can disable any time in device settings).
+
+Comply with legal obligations (security, record-keeping).
+
+4. Third-party service providers
+
+We use trusted vendors as processors to deliver the App:
+
+Google/Firebase (Authentication, Cloud Firestore/Storage, Crashlytics, Analytics, Cloud Messaging for push).
+These providers process data on our behalf and are contractually bound to protect it and not use it for their own purposes.
+
+5. Data retention
+
+We retain personal data only as long as needed for the purposes above.
+
+Account/profile data: while your account is active.
+
+Diagnostics/analytics: typically up to 24 months (shorter where feasible).
+We may keep minimal logs to meet legal requirements or resolve disputes.
+
+6. International transfers
+
+Some providers (e.g., Google) may process data outside your country (including outside the EEA). We rely on appropriate safeguards (e.g., SCCs) and technical measures to protect your data.
+
+7. Security
+
+We use reasonable technical and organizational measures to protect personal data. No system is 100% secure, but we work to continuously improve our safeguards.
+
+8. Your choices & rights
+
+Access, rectify, erase, restrict, object, and data portability (GDPR).
+
+Withdraw consent at any time (e.g., disable notifications/location in device settings).
+
+Delete your account/data: You can request deletion by emailing abdullah.sadat@istu.edu.pl
+ from your registered email. We will confirm and erase personal data unless we must retain certain records by law.
+If you are in the EEA/UK, you may also lodge a complaint with your local supervisory authority.
+
+9. Children’s privacy
+
+The App is not directed to children. We do not knowingly collect personal data from children under the age required by local law (e.g., 13–16 in the EEA). If you believe a child has provided personal data, contact us to remove it.
+
+10. Cookies & tracking
+
+The mobile App does not use website cookies. If you visit our website, cookies may be used there—see the website cookie notice. The App may use device identifiers and analytics strictly to provide, secure, and improve the service (see sections above).
+
+11. Changes
+
+We may update this Policy from time to time. We will post the updated version in the App and/or on our website with a new “Last updated” date. Material changes will be highlighted where appropriate.
+
+Contact: For any questions or requests about this Policy or your data, email abdullah.sadat@istu.edu.pl
+.
